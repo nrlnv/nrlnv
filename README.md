@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nrlnv
-- 👀 I’m interested in mobile dev
+- 👀 I’m interested in web and mobile dev
 - 🌱 I’m currently working as React Native Developer
 - 📫 How to reach me: yeldos.ktl@gmail.com
 

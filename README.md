@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nrlnv
 - 👀 I’m interested in web and mobile dev
-- 🌱 I’m currently working as React Native Developer
+- 🌱 I’m currently working as Fullstack Developer
 - 📫 How to reach me: yeldos.ktl@gmail.com
 
 <!---
